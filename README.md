@@ -1,6 +1,7 @@
 # S2NDVI_BSI_DEM
 
 **Automated Sentinel-2 Image Analysis for Landslide Monitoring**
+
 *Case Study: Landslide Crown Point, Wayanad, India*
 
 This Python project uses  **Google Earth Engine (GEE)** to analyze landslide-prone areas using Sentinel-2 imagery. Given any point of interest, the script automatically creates a buffer around it and generates key outputs for both **before-and-after analysis**, including:
@@ -62,6 +63,8 @@ Edit `main.py` to set the landslide crown point coordinates, buffer, and date ra
 
 ```python
 lat, lon, buf = 11.465104, 76.134982, 20000  # Wayanad crown point
+start_date, end_date= =#add acc to your interest
+buffer =#add acc to your interest
 ```
 
 Run the script:
