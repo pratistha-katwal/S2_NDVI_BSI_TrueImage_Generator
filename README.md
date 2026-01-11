@@ -4,7 +4,7 @@
 
 *Case Study: Landslide Crown Point, Wayanad, India*
 
-This Python project uses  **Google Earth Engine (GEE)** to analyze landslide-prone areas using Sentinel-2 imagery. Given any point of interest, the script automatically creates a buffer around it and generates key outputs for both **before-and-after analysis**, including:
+This Python project uses  **Google Earth Engine (GEE)** to analyze changes in a specific area using Sentinel-2 imagery. Given any point of interest, the script automatically creates a buffer around it and generates key outputs for both **before-and-after analysis**, including:
 
 * True Color imagery (visual RGB)
 * NDVI (vegetation health)
