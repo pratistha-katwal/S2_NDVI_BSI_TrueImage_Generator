@@ -5,10 +5,10 @@
 
 This Python project uses  **Google Earth Engine (GEE)** to analyze landslide-prone areas using Sentinel-2 imagery. Given any point of interest, the script automatically creates a buffer around it and generates key outputs for both **before-and-after analysis**, including:
 
-* **True Color imagery (visual RGB)
-* **NDVI (vegetation health)
-* **BSI (bare soil / landslide risk)
-* **Difference maps (after minus before) for NDVI and BSI
+* True Color imagery (visual RGB)
+* NDVI (vegetation health)
+* BSI (bare soil / landslide risk)
+* Difference maps (after minus before) for NDVI and BSI
 
 **For this study, I focused on the July 2024 Wayanad landslide crown point to examine changes caused by the landslide.**
 
