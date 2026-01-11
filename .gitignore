@@ -1,0 +1,6 @@
+# .gitignore
+__pycache__/
+*.pyc
+output/
+cache/
+.DS_Store
