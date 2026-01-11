@@ -1,6 +1,6 @@
 # S2NDVI_BSI_DEM
 
-**Automated Sentinel-2 Image Analysis for Landslide Monitoring**
+**Automated Sentinel-2 Imagery Processing and Index Computationg**
 
 *Case Study: Landslide Crown Point, Wayanad, India*
 
